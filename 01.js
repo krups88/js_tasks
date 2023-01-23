@@ -10,3 +10,4 @@ result = "Not equal!";
 }
 
 console.log(result);
+/*bohdan*/
